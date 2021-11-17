@@ -1,16 +1,36 @@
-### Hi there 👋
+# OSU! :wave: 
+### Welcome to my Github!
+I am interested in full stack development relating to games, finance, and content creation.
 
-<!--
-**zill4/zill4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Current project is [Warlok](https://warlok.net), check out my Warlok page [Zill4](https://warlok.net/w/zill4/)
 
-Here are some ideas to get you started:
+---
+- 💼 Interests
+	-  🤖 Hackathons
+	- 🕹️ Gamejams
+	- 📈 Business/Job Opportunities
+- 👨‍💻 Notable Projects
+	- [Warlok](https://github.com/zill4/Warlok)
+	- [42 Silicon Valley Projects](https://github.com/zill4/42SiliconValley-Projects)
+	- [SocialEye](https://github.com/zill4/SocialEye)
+	- [CrispCode.io](https://github.com/zill4/MyWebsite)
+- 👾 Favorite games
+	- Minecraft: Tekkit modpack
+	- Kingdom Hearts 
+	- World of Warcraft 
+- 🌸Hobbys
+	- 🎸 Guitar & Drums
+	- 🎥 [Streaming & Content Creation](https://warlok.net/w/zill4/)
+	- 🖋️ [Poetry & Writing](https://medium.com/@justcrisp)
+	-  🎨 and other creative outlets...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+---
+
+*And a Haiku for you...*
+day by day a bit
+bit by bit a heart flutters
+tick tick commit me
+
+Contact me at Justin@crispcrode.io
