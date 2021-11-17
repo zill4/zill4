@@ -2,7 +2,7 @@
 ### Welcome to my Github!
 I am interested in full stack development relating to games, finance, and content creation.
 
-My Current project is [Warlok](https://warlok.net), check out my Warlok page [Zill4](https://warlok.net/w/zill4/)
+My Current project is [Warlok](https://warlok.net), check out my Warlok page [Zill4](https://warlok.net/w/jcr1sp)
 
 ---
 - 💼 Interests
@@ -20,7 +20,7 @@ My Current project is [Warlok](https://warlok.net), check out my Warlok page [Zi
 	- World of Warcraft 
 - 🌸Hobbys
 	- 🎸 Guitar & Drums
-	- 🎥 [Streaming & Content Creation](https://warlok.net/w/zill4/)
+	- 🎥 [Streaming & Content Creation](https://warlok.net/w/jcr1sp)
 	- 🖋️ [Poetry & Writing](https://medium.com/@justcrisp)
 	-  🎨 and other creative outlets...
 
