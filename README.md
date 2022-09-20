@@ -19,7 +19,7 @@ My Current project is [Warlok](https://warlok.net), check out my Warlok page [JC
 	- Kingdom Hearts 
 	- World of Warcraft 
 - 🌸Hobbys
-	- 🎸 Guitar & Drums
+	- 🏎️ Cars & Autocross
 	- 🎥 [Streaming & Content Creation](https://warlok.net/w/jcr1sp)
 	- 🖋️ [Poetry & Writing](https://medium.com/@justcrisp)
 	-  🎨 and other creative outlets...
