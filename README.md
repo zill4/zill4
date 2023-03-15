@@ -15,9 +15,9 @@ My Current project is [Warlok](https://warlok.net), check out my Warlok page [JC
 	- [SocialEye](https://github.com/zill4/SocialEye)
 	- [CrispCode.io](https://github.com/zill4/MyWebsite)
 - 👾 Favorite games
-	- Minecraft: Tekkit modpack
+	- Dark Cloud 1 & 2
 	- Kingdom Hearts 
-	- World of Warcraft 
+	- Elden Ring
 - 🌸Hobbys
 	- 🏎️ Cars & Autocross
 	- 🎥 [Streaming & Content Creation](https://warlok.net/w/jcr1sp)
