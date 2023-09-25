@@ -2,13 +2,12 @@
 ### Welcome to my Github!
 I am interested in full stack development relating to games, finance, and content creation.
 
-My Current project is [Warlok](https://warlok.net), check out my Warlok page [JCr1sp](https://warlok.net/w/jcr1sp)
 
 ---
 - 💼 Interests
 	-  🤖 Hackathons
 	- 🕹️ Gamejams
-	- 📈 Business/Job Opportunities
+	- 📈 Business Opportunities
 - 👨‍💻 Notable Projects
 	- [Warlok](https://github.com/zill4/Warlok)
 	- [42 Silicon Valley Projects](https://github.com/zill4/42SiliconValley-Projects)
@@ -18,7 +17,7 @@ My Current project is [Warlok](https://warlok.net), check out my Warlok page [JC
 	- Dark Cloud 1 & 2
 	- Kingdom Hearts 
 	- Elden Ring
-- 🌸Hobbys
+- 🌸Hobbies
 	- 🏎️ Cars & Autocross
 	- 🎥 [Streaming & Content Creation](https://warlok.net/w/jcr1sp)
 	- 🖋️ [Poetry & Writing](https://medium.com/@justcrisp)
