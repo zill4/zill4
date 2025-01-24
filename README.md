@@ -8,9 +8,10 @@ I am interested in full stack development relating to games, finance, and conten
 	-  🤖 Hackathons
 	- 🕹️ Gamejams
 	- 📈 Business Opportunities
+   
 - 👨‍💻 Notable Projects
-	- [oomi](https://oomi.ai/)
-    	- [Switchtape](https://switchtape.com)
+	- [oomi](https://oomi.ai)
+ 	- [Switchtape](https://switchtape.com)
    	- [FixedW/](https://fixedwith.web.app/home)
   	- [CrispCode.io](https://github.com/zill4/crispcode-io)
 	- [Warlok](https://github.com/zill4/Warlok)
@@ -21,6 +22,7 @@ I am interested in full stack development relating to games, finance, and conten
 	- Dark Cloud 1 & 2
 	- Kingdom Hearts 
 	- Elden Ring
+   
 - 🌸Hobbies
 	- 🏎️ Cars & Autocross
 	- 🎥 [Streaming & Content Creation](https://warlok.net/w/jcr1sp)
