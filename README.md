@@ -9,12 +9,13 @@ I am interested in full stack development relating to games, finance, and conten
 	- 🕹️ Gamejams
 	- 📈 Business Opportunities
 - 👨‍💻 Notable Projects
+  	- [CrispCode.io](https://github.com/zill4/crispcode-io)
+   	- [Switchtape](https://switchtape.com)
+   	- [FixedW/](https://fixedwith.web.app/home)
 	- [Warlok](https://github.com/zill4/Warlok)
 	- [42 Silicon Valley Projects](https://github.com/zill4/42SiliconValley-Projects)
 	- [SocialEye](https://github.com/zill4/SocialEye)
-	- [CrispCode.io](https://github.com/zill4/crispcode-io)
-   	- [Switchtape](https://switchtape.com)
-   	- [FixedW/](https://fixedwith.web.app/home)
+
 - 👾 Favorite games
 	- Dark Cloud 1 & 2
 	- Kingdom Hearts 
